@@ -1,0 +1,2 @@
+# ferrochat
+discord on rust
